@@ -9,3 +9,4 @@ Roadmap:
   
 4. Work on auto-overtake (includes auto-lane-change)
 5. Work on an aggregated model that takes all the camera streams and creates a Vecor-representation of the surroudnings with all the relevant things in it.
+6. Use the vector representation of the surroundings for full self drive
